@@ -9,6 +9,7 @@ export default function Record() {
                 <div>1. Two Sum</div>
                 <div>13. Roman to Integer</div>
                 <div>14. Longest Common Prefix</div>
+                <div>20. Valid Parentheses</div>
             </div>
         </div>
     )
