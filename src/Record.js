@@ -15,6 +15,9 @@ export default function Record() {
                     28. Find the Index of the First Occurrence in a String
                 </div>
                 <div>66. Plus One</div>
+                <div>69. Sqrt(x)</div>
+                <div>70. Climbing Stairs</div>
+                <div>88. Merge Sorted Array</div>
             </div>
         </div>
     )
