@@ -18,6 +18,8 @@ export default function Record() {
                 <div>69. Sqrt(x)</div>
                 <div>70. Climbing Stairs</div>
                 <div>88. Merge Sorted Array</div>
+                <div>94. Binary Tree Inorder Traversal</div>
+                <div>101. Symmetric Tree</div>
             </div>
         </div>
     )
