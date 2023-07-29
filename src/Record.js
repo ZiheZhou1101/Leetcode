@@ -20,6 +20,12 @@ export default function Record() {
                 <div>88. Merge Sorted Array</div>
                 <div>94. Binary Tree Inorder Traversal</div>
                 <div>101. Symmetric Tree</div>
+                <div>104. Maximum Depth of Binary Tree</div>
+                <div>108. Convert Sorted Array to Binary Search Tree</div>
+                <div>118. Pascals Triangle</div>
+                <div>121. Best Time to Buy and Sell Stock</div>
+                <div>125. Valid Palindrome</div>
+                <div>136. Single Number</div>
             </div>
         </div>
     )
