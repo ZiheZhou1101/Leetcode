@@ -10,6 +10,7 @@ export default function Record() {
                 <div>13. Roman to Integer</div>
                 <div>14. Longest Common Prefix</div>
                 <div>20. Valid Parentheses</div>
+                <div>21. Merge Two Sorted Lists</div>
                 <div>26. Remove Duplicate from Sorted Array</div>
                 <div>
                     28. Find the Index of the First Occurrence in a String
@@ -26,6 +27,11 @@ export default function Record() {
                 <div>121. Best Time to Buy and Sell Stock</div>
                 <div>125. Valid Palindrome</div>
                 <div>136. Single Number</div>
+                <div>169. Majority Element</div>
+                <div>171. Excel Sheet Column Number</div>
+                <div>191. Number of 1 Bits</div>
+                <div>202. Happy Number</div>
+                <div>206. Reverse Linked List</div>
             </div>
         </div>
     )
