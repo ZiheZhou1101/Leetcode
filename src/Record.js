@@ -27,11 +27,22 @@ export default function Record() {
                 <div>121. Best Time to Buy and Sell Stock</div>
                 <div>125. Valid Palindrome</div>
                 <div>136. Single Number</div>
+                <div>141. Linked List Cycle</div>
+                <div>160. Intersection of Two Linked Lists</div>
                 <div>169. Majority Element</div>
                 <div>171. Excel Sheet Column Number</div>
                 <div>191. Number of 1 Bits</div>
                 <div>202. Happy Number</div>
                 <div>206. Reverse Linked List</div>
+                <div>217. Contains Duplicate</div>
+                <div>234. Palindrome Linked List</div>
+                <div>242. Valid Anagram</div>
+                <div>268. Missing Number</div>
+                <div>283. Move Zeroes</div>
+                <div>326. Power of Three</div>
+                <div>344. Reverse String</div>
+                <div>387. First Unique Character in a String</div>
+                <div>412. Fizz Buzz</div>
             </div>
         </div>
     )
