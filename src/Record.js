@@ -75,6 +75,20 @@ export default function Record() {
                             3. Longest Substring Without Repeating Characters
                         </div>
                         <div>5. Longest Palindromic Substring</div>
+                        <div>7. Reverse Integer</div>
+                        <div>8. String to Integer (atoi)</div>
+                        <div>11. Container With Most Water</div>
+                        <div>15. 3Sum</div>
+                        <div>17. Letter Combinations of a Phone Number</div>
+                        <div>19. Remove Nth Node From End of List</div>
+                        <div>22. Generate Parentheses</div>
+                        <div>29. Divide Two Integers</div>
+                        <div>33. Search in Rotated Sorted Array</div>
+                        <div>
+                            34. Find First and Last Position of Element in
+                            Sorted Array
+                        </div>
+                        <div>36. Valid Sudoku</div>
                     </div>
                 </div>
             </div>
