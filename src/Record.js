@@ -89,6 +89,8 @@ export default function Record() {
                             Sorted Array
                         </div>
                         <div>36. Valid Sudoku</div>
+                        <div>46. Permutation</div>
+                        <div>200. Number of Islands</div>
                     </div>
                 </div>
             </div>
